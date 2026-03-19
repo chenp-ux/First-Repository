@@ -42,6 +42,7 @@ D01KP_Project/
 │ │ └── d01kp_data.txt # 测试数据集
 │ └── main.py # 程序入口
 ├── README.md # 项目说明（本文档）
+└── requirements.txt # 依赖库清单
 ## 环境要求
 - Python 3.8
 - 依赖库：
